@@ -14,7 +14,7 @@ def main(speed=0, bg_color="grey"):
   
  
     """TODO: define different colors here"""
-    colors = ["red", "magenta", "black", "green", "blue", "pink", "white"]
+    colors = ["red", "magenta", "black", "green", "blue", "pink", "white"]  # colors
 
 
     for _ in range(10):
